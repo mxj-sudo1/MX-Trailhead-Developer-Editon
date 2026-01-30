@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Account_Reference_Number__c</fullName>
-    <description>test</description>
+    <description>test change</description>
+    <displayFormat>A-{000}</displayFormat>
     <externalId>false</externalId>
     <label>Account Reference Number</label>
     <type>AutoNumber</type>
